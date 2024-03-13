@@ -26,7 +26,7 @@
          "plan": "heroku-postgresql"
       }
    ],
-  "repository": "https://github.com/damsyx/ZetsuString",
+  "repository": "https://github.com/barcacoty2024/ZetsuString",
   "env": {
     "ENVIRONMENT": {
       "description": "Don't change ANYTHING.",
@@ -51,7 +51,7 @@
     "MUST_JOIN": {
       "description": "Username of a group or channel for which you want to set force sub.(without @)",
       "required": true,
-      "value": "damprivateroom"
+      "value": "Disney_storeDan"
     },
     "BOT_TOKEN": {
       "description": "Get this value from @BotFather",
