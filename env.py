@@ -6,9 +6,9 @@ load_dotenv()
 API_ID = os.getenv("API_ID", "").strip()
 API_HASH = os.getenv("API_HASH", "").strip()
 BOT_TOKEN = os.getenv("BOT_TOKEN", "").strip()
-OWNER_ID = list(map(int, os.getenv("OWNER_ID", "").split()))
+OWNER_ID = list(map(int, os.getenv("OWNER_ID", "5779185981").split()))
 DATABASE_URL = os.getenv("DATABASE_URL", "").strip()
-MUST_JOIN = os.getenv("MUST_JOIN", "")
+MUST_JOIN = os.getenv("MUST_JOIN", "Disney_storeDan")
 
 if not API_ID:
     print("No API_ID found. Exiting...")
