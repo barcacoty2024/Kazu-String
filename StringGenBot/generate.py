@@ -35,8 +35,8 @@ from telethon.errors import (
 ask_ques = "**» Silahkan Tekan String Mana Yang Ingin Kamu Ambil 🧐:**"
 buttons_ques = [
     [
-        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ v1 [ʙᴏᴛ ᴍᴜꜱɪᴄ]", callback_data="pyrogram1"),
-        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ v2 [ᴘʏʀᴏ-ᴜsᴇʀʙᴏᴛ]", callback_data="pyrogram"),
+        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ v1 [ᴡɪʟᴅᴀɴ-ᴜʙᴏᴛ]", callback_data="pyrogram1"),
+        InlineKeyboardButton("ᴩʏʀᴏɢʀᴀᴍ v2 [ᴅᴀɴ-ᴜsᴇʀʙᴏᴛ]", callback_data="pyrogram"),
     ],
     [
         InlineKeyboardButton("ᴛᴇʟᴇᴛʜᴏɴ", callback_data="telethon"),
